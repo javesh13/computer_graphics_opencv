@@ -1,0 +1,17 @@
+I am using python as the programming languaege.
+Make sure python is added to your command prompt path so that you can execute python from anywhere in your filesystem.
+
+Download python 3.* from python official website and install it and dont forget to check the add to system path checkbox
+during installation.
+install pip with the help of get-pip.py script
+
+first move to the location of get-pip.py then
+execute 
+        python get-pip.py
+pip will be installed
+
+then install the following packages.
+pip install opencv-python numpy matplotlib 
+
+
+setup is completed.
